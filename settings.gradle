@@ -1,0 +1,2 @@
+include ':cram'
+include 'android', 'core'
