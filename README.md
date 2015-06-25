@@ -18,4 +18,6 @@ If you want to use Genymotion
 Cram Project setup in Android studio
 Genymotion emulator setup and working correctly with Android Studio
 
+6/25/15
+We will most likely be using the libgdx game development library. This is a very popular library used for developing games on various platforms. Not to mention, it's free.
 
