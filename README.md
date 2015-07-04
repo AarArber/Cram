@@ -23,3 +23,4 @@ Genymotion emulator setup and working correctly with Android Studio
 We will most likely be using the libgdx game development library. This is a very popular library used for developing games on various platforms. Not to mention, it's free. Documentation - https://github.com/libgdx/libgdx/wiki
 I am using the following project to help us with our project and code structure. Android applications have a lot of files, and they all need to be in the correct directories/sub-directories. Feel free to look around in it, and as always, ask me questions if you have any. https://github.com/libgdx/libgdx-demo-superjumper  
 
+To be continued
