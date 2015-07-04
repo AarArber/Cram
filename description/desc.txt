@@ -1,0 +1,17 @@
+Title: Cram
+
+Description: Space Invaders-style portrait gameplay. Enemies fall from ceiling until destroyed. Player is able to move from side to side on x-axis. 
+Player is also able to fire bullets.
+
+Unique: Time passing = ceiling and floor moving down and up, respectively.
+Enemy touching floor = ceiling and floor jump down and up respectively.
+Enemy destroyed = ceiling and floor jumping in favor of player (countdown increases). If countdown = 0, player
+is crammed. This is game over.
+
+Color targeting: Each enemy dropped will be drawn as a random color. Enemy can only be
+destroyed if hit by a bullet that matches it's color. The color of the next bullet 
+is randomly selected from a pool of all current enemy colors on screen. 
+Player is able to see color of next bullet before firing. A new color enemy is introduced periodically.
+
+Controls (mobile): Player touch coordinates are saved in a first-in-last-out queue.
+Player will move towards current touch coordinate and fire from that position once reached. 
