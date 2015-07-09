@@ -24,3 +24,6 @@ We will most likely be using the libgdx game development library. This is a very
 I am using the following project to help us with our project and code structure. Android applications have a lot of files, and they all need to be in the correct directories/sub-directories. Feel free to look around in it, and as always, ask me questions if you have any. https://github.com/libgdx/libgdx-demo-superjumper  
 
 To be continued
+
+Cheat Sheets
+  - Graphic development cheat sheet for Android development  http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/
